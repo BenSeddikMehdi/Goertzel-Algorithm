@@ -1,0 +1,13 @@
+Goertzel Algorithm :
+
+I-	Create a sine wave with multiple frequencies f0 and f1.
+
+II-	Add white noise to the previous signal.
+
+III- 	Applying the Goertzel Algorithm to the noisySignal
+
+IV-	Calculating the probability of detection frequencies.
+
+By BENSEDDIK El Mehdi
+
+03/11/2019
