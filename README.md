@@ -5,7 +5,7 @@ The Goertzel algorithm is a technique in digital signal processing (DSP) that pr
 
 Goertzel Algorithm :
 
-I Created a sine wave with multiple frequencies f0 and f1 and I added some white noise to it. After that I applied goertzel function to the noisy Signal. Additionally I calculate the probailities of detection of each frequency and plotted the average probabilities versus all frequencies detected.
+I Created a sine wave with multiple frequencies f0, f1 and f2. I added some white noise to it. After that I applied goertzel function to the noisy Signal. Additionally I calculated the probailities of detection of each frequency and plotted the average probabilities versus all frequencies detected.
 
 
 By BENSEDDIK El Mehdi
